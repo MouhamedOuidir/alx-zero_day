@@ -1,11 +1,5 @@
 #!/bin/bash
-echo "ALX"
-^c
-^C
-
-:q
-:qw
-
+echo "ALX School"
 
 
 
